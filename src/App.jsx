@@ -50,7 +50,7 @@ function App() {
       <div className='mb-2'>
         <span className='text-5xl'>Vienna guide 2024</span>
       </div>
-      Hotel:<span className='ml-2 text-xl hover:text-blue-400'><a href='https://www.google.com/maps/search/?api=1&query=Schnirchgasse%2011%2C%201030%20Vienna%2C%20%20Austria'>Triiple Tower Dream Apartmenes hotel</a></span>
+      Hotel:<span className='ml-2 text-xl hover:text-blue-400'><a href='https://www.google.com/maps/search/?api=1&query=Schnirchgasse%2011%2C%201030%20Vienna%2C%20%20Austria'>Triiple Tower Dream Apartments</a></span>
       <div>
         {/* MUSEUMS */}
         <div className='flex flex-col gap-y-2 mt-2 pb-4 border-b border-gray-100'>
