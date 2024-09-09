@@ -81,8 +81,8 @@ function App() {
             {/* Kunsthistorisches Museum */}
             <li className='flex items-center gap-x-2 px-2 pt-1 pb-1.5 rounded bg-gray-700'>
               <div className='flex items-center gap-x-2 grow'>
-                <span className='text-lg hover:text-blue-400'><a href="https://en.wikipedia.org/wiki/Kunsthistorisches_Museum" target="_blank">Kunsthistorisches Museum</a></span>
-                <span className='mt-1 italic'>( Famous paintings, cafe view )</span>
+                <span className='text-lg hover:text-blue-400'><a href="https://en.wikipedia.org/wiki/Kunsthistorisches_Museum" target="_blank">Kunsthistorisches</a></span>
+                <span className='mt-1 italic'>( Paintings, cafe view )</span>
               </div>
               <span className='mt-1.5 hover:text-blue-400'><a href="https://www.google.com/maps/place/Kunsthistorisches+Museum+Wien/@48.2038016,16.3617874,17z/data=!3m1!4b1!4m6!3m5!1s0x476d079a63cf77f1:0x6f6052b56ca6b841!8m2!3d48.2038016!4d16.3617874!16zL20vMDN5eTcw?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D" target="_blank"><MapIcon /></a></span>
             </li>
@@ -226,7 +226,7 @@ function App() {
             <li className='flex items-center gap-x-2 px-2 pt-1 pb-1.5 rounded bg-gray-700'>
               <div className='flex items-center gap-x-2 grow'>
                 <span className='text-lg hover:text-blue-400'><a href="https://glacisbeisl.at/en/" target="_blank">Glacis Beisl</a></span>
-                <span className='mt-1 italic'>( Friday 21:00, Reservation ID: Nf50XAsBCw )</span>
+                <span className='mt-1 italic'>( Friday 21:00, RID: Nf50XAsBCw )</span>
               </div>
               <span className='mt-1.5 hover:text-blue-400'><a href='https://www.google.com/maps/place/Glacis+Beisl/@48.2031407,16.3571362,17z/data=!3m1!4b1!4m6!3m5!1s0x476d0791cbf88dd9:0x672e2e997bba5f80!8m2!3d48.2031407!4d16.3571362!16s%2Fg%2F1tj2m804?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D' target="_blank"><MapIcon /></a></span>
             </li>
