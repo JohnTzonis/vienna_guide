@@ -120,7 +120,7 @@ function App() {
             <li className='flex items-center gap-x-2 px-2 pt-1 pb-1.5 rounded bg-gray-700'>
               <div className='flex items-center gap-x-2 grow'>
                 <span className='text-lg hover:text-blue-400'><a href="https://www.cafe-schwarzenberg.at/en/" target="_blank">Schwarzenberg</a></span>
-                <span className='mt-1 italic text-zinc-400'>Wed 11, 10:30 reservation</span>
+                <span className='mt-1 italic text-zinc-400'>Wed 11, 10:30</span>
               </div>
               <span className='mt-1.5 hover:text-blue-400'><a href={schwarzenbergCafeLink} target="_blank"><MapIcon /></a></span>
             </li>
